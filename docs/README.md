@@ -1,6 +1,7 @@
 # MBA
 
-## Core/Elective Courses
+## Done: Core/Elective Courses
+
 | Status | ID       | Type    | Course Name                 | Year | Semester | Grade  |
 | :------| :------  | :-----  | :-------------------------  | :--- | :------- | :------|
 | 1      | MBA:8150 | Core    | Business Analytics          | 2015 | Spring   | A  |
@@ -22,13 +23,15 @@
 | 17     | MGMT:    | Elective| Leadership and Personal Developement | 2019 | Spring   | IP |
 
 
-## TODO: MSCI Core Courses
+### TODO: MSCI Core Courses
+
 | Status | ID       | Type    | Course Name                 | Year | Semester | Grade  |
 | :------| :------  | :-----  | :-------------------------  | :--- | :------- | :------|
 | 1      | MSCI:9110 | Core    | Advanced Analytics         |      |          |        |
 | 2      | MSCI:6120 | Core    | Analytics Experience       |      |          |        |
 
-## TODO: MSCI Elective Courses
+###TODO: MSCI Elective Courses
+
 | Status | ID       | Type     | Course Name                       | Year | Semester | Grade  |
 | :------| :------  | :-----   | :-------------------------        | :--- | :------- | :------|
 | 1      | MSCI:6130| Elective |  Applied Optimization             |      |          |        |
