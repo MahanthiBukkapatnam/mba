@@ -1,3 +1,5 @@
+#mba
+
 Core Courses
 
 | Status | ID       | Course Name                 | Semester Completed |                                             |
