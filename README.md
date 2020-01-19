@@ -1,11 +1,6 @@
-# Data Programming in R
+# mba
 
-| Item              | Value                                             |
-| :---------------- | :-----------------------------------------------  |
-| Degree            | Master of Science in Business Analytics           |
-#mba
-
-# Core Courses
+## Core Courses
 
 | Status     | ID       | Course Name                 | Semester Completed |
 | :--------- | :------  | :-------------------------- | :----------------- |
@@ -19,7 +14,7 @@
 | DONE   | MBA:8240 | Operations & Supply Chain       |                    |
 | DONE   | MBA:8310 | Business Integration            |                    |
 
-#Electives
+## Electives
 
 | Status     | ID       | Course Name                 | Semester Completed |
 | :--------- | :------  | :-------------------------- | :----------------- |
