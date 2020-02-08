@@ -4,8 +4,8 @@
 
 | Status | ID       | Type    | Course Name                 | Year | Semester | Grade  |
 | :------| :------  | :-----  | :-------------------------  | :--- | :------- | :------|
-| 1      | MBA:8150 | Core    | Business Analytics          | 2015 *| Spring   | A  |
-| 2      | MBA:8140 | Core    | Corporate Fin Reporting     | 2015 *| Summer   | A  |
+| 1      | MBA:8150 | Core    | Corporate Fin Reporting          | 2015 *| Spring   | A  |
+| 2      | MBA:8140 | Core    | Marketing Management     | 2015 *| Summer   | A  |
 | 3      | MBA:8120 | Core    | Management in Organizations | 2016 | Spring   | A  |
 | 4      | MGMT:9220| Elective| Maximizing Team Performance | 2016 | Spring   | A  |
 | 5      | MBA:8150 | Core    | Business Analytics          | 2016 | Spring   | A+ |
@@ -18,7 +18,7 @@
 | 12     | MSCI:6070| Core    | Data Science                | 2019 *| Spring     | A- |
 | 13     | MSCI:6060| Core    | Data Programming in R                | 2019 *| Fall     | A+ |
 | 14     | MSCI:6050| Core    | Data Management and Visual Analytics | 2019 *| Fall     | A- |
-| 15     | MGMT:9110:0EXD | Elective| Dynamics of Negotiations             | 2019 | Winter   | IP |
+| 15     | MGMT:9110:0EXD | Elective| Dynamics of Negotiations             | 2019 | Winter   | A- |
 | 16     | MGMT:9230:0EXD | Elective| Managing and Preventing Conflict     | 2020 | Spring   | IP |
 | 17     | MGMT:9120:0EXD | Elective| Leadership and Personal Developement | 2020 | Spring   | IP |
 
